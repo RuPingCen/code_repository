@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/croco/catkin_ws/devel_isolated/nmea_navsat_driver/lib/python3/dist-packages",
+        "/home/croco/catkin_ws/devel_isolated/catkin_virtualenv/lib/python3/dist-packages",
+        "/home/croco/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/croco/ros_practice/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/croco/catkin_ws/devel_isolated/nmea_navsat_driver/lib/python3/dist-packages",
+        "/home/croco/catkin_ws/devel_isolated/catkin_virtualenv/lib/python3/dist-packages",
+        "/home/croco/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/croco/ros_practice/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/croco/ros_practice/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/croco/catkin_ws/src/bag_pkg/include/**",
+        "/home/croco/catkin_ws/src/gps_bag_pkg/include/**",
+        "/home/croco/ros_practice/src/imu_pkg/include/**",
+        "/home/croco/ros_practice/src/map_pkg/include/**",
+        "/home/croco/ros_practice/src/waterplus_map_tools/include/**",
+        "/home/croco/ros_practice/src/wpb_home/wpb_home_bringup/include/**",
+        "/home/croco/ros_practice/src/wpb_home/wpb_home_tutorials/include/**",
+        "/home/croco/ros_practice/src/wpb_home/wpbh_local_planner/include/**",
+        "/home/croco/ros_practice/src/wpr_simulation/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
